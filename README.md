@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @john-data-chen
-- 👀 I’m interested in python, crawler, chatbot
-- 🌱 I’m currently learning docker and k8s
+- 👀 I’m interested in Python, Crawler, Chatbot and Logseq
+- 🌱 I’m currently learning k8s and Github Actions
 - 💞️ I’m looking to collaborate on cralwer
 - 📫 Reach me by sending me a message or email
 
