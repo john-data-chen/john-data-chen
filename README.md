@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @john-data-chen
-- 👀 I’m interested in Python, Crawler, Chatbot and Logseq
-- 🌱 I’m currently learning k8s and Github Actions
-- 💞️ I’m looking to collaborate on cralwer
-- 📫 Reach me by sending me a message or email
+- 👀 I’m interested in Flutter, ChatGPT, Chatbot and Logseq
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on Flutter
+- 📫 Reach me by sending me a message
 
 <!---
 john-data-chen/john-data-chen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
