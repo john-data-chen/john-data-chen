@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @john-data-chen
-- 👀 I’m interested in Flutter, ChatGPT, Chatbot and Logseq
+- 👀 I’m interested in Flutter, ChatGPT and Logseq
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Flutter
 - 📫 Reach me by sending me a message
