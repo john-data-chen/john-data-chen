@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/johndatachen/](https://www.linkedin.com/in/johndatachen/)
 
-- ⚡ Fun fact **I have finished**
+- ⚡ Fun fact **I have finished Camino de Santiago Primitivo Way**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
