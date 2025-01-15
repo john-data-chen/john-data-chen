@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm JianAn Chen</h1>
 <h3 align="center">A passionate fullstack developer from Taiwan</h3>
 
-- 🌱 I’m currently learning **React and Typescript**
+- 🌱 I’m currently learning **Next**
 
-- 💬 Ask me about **crawler and automation**
+- 💬 Ask me about **Automation and React**
 
-- 📫 How to reach me **https://www.linkedin.com/in/johndatachen/**
+- 📫 Know about my experiences and reach me [https://www.linkedin.com/in/johndatachen/](https://www.linkedin.com/in/johndatachen/)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/johndatachen/](https://www.linkedin.com/in/johndatachen/)
-
-- ⚡ Fun fact **I have finished Camino de Santiago Primitivo Way**
+- ⚡ Fun fact: **I have finished Camino de Santiago Primitivo Way in Spain**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
