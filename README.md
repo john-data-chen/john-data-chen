@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm JianAn Chen</h1>
+<h1 align="center">Hi 👋, I'm John Chen</h1>
 <h3 align="center">A passionate fullstack developer from Taiwan</h3>
 
-- 🌱 I’m currently learning **Next**
+- 🌱 I’m currently learning **Prompt Engineering and AI Training**
 
-- 💬 Ask me about **Automation and React**
+- 💬 Ask me about Prompt Engineering in **Front-end (React and Next.js ecosystem)**
 
 - 📫 Know about my experiences and reach me [https://www.linkedin.com/in/johndatachen/](https://www.linkedin.com/in/johndatachen/)
 
