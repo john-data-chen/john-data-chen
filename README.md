@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm John Chen</h1>
 <h3 align="center">A passionate fullstack developer from Taiwan</h3>
 
-- 🔭 I’m currently working on [nest-template](https://github.com/john-data-chen/nest-template)
+- 🔭 I’m currently working on [turborepo-starter-kit](https://github.com/john-data-chen/turborepo-starter-kit)
 
-- 🌱 I’m currently learning **Nest.js**
+- 🌱 I’m currently learning **Nest.js and Turborepo**
 
 - 👨‍💻 All of my projects are available at [https://github.com/john-data-chen?tab=repositories](https://github.com/john-data-chen?tab=repositories)
 
