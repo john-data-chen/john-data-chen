@@ -7,13 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/john-data-chen?tab=repositories](https://github.com/john-data-chen?tab=repositories)
 
-- 💬 Ask me about **Prompt Engineering in Front-end (React and Next.js ecosystem)**
+- 💬 Ask me about **AI tools and Prompt Engineering to increase quility and development efficiency in Frontend**
 
-- 📫 How to reach me **https://www.linkedin.com/in/johndatachen/**
+- 📧 Know about my experiences and reach me [https://www.linkedin.com/in/johndatachen/](https://www.linkedin.com/in/johndatachen/)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/johndatachen/](https://www.linkedin.com/in/johndatachen/)
-
-- ⚡ Fun fact **I have finished Camino de Santiago Primitivo Way in Spain**
+- 🥊 Fun fact **I get up at five in the morning to train boxing and play the theme of Rocky**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-data-chen)](https://github.com/anuraghazra/github-readme-stats)
 
