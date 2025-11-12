@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [turborepo-starter-kit](https://github.com/john-data-chen/turborepo-starter-kit)
 
-- 🌱 I’m currently learning **Nest.js and Turborepo**
+- 🌱 I’m currently learning **Storybook and Turborepo**
 
 - 👨‍💻 All of my projects are available at [https://github.com/john-data-chen?tab=repositories](https://github.com/john-data-chen?tab=repositories)
 
