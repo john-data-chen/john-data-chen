@@ -2,8 +2,6 @@
 
 ### Senior Staff Frontend Engineer | AI-Driven Engineering Velocity | Monorepo Architect
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/john-data-chen" alt="https://github.com/john-data-chen" /></a> </p>
-
 - 🔭 I'm currently working on ** [turborepo-starter-kit](https://github.com/john-data-chen/turborepo-starter-kit)**
 
 - 🌱 I'm currently learning **Storybook and Turborepo**
@@ -20,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/https://github.com/john-data-chen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/john-data-chen" height="30" width="40" /></a>
+<a href="https://github.com/https://github.com/john-data-chen" target="blank">
 <a href="https://linkedin.com/in/johndatachen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johndatachen" height="30" width="40" /></a>
 </p>
 
