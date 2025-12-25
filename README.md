@@ -2,13 +2,11 @@
 
 ### Senior Staff Frontend Engineer | AI-Driven Engineering Velocity | Monorepo Architect
 
-- 🔭 I'm currently working on ** [turborepo-starter-kit](https://github.com/john-data-chen/turborepo-starter-kit)**
+- 🔭 I'm currently working on [turborepo-starter-kit](https://github.com/john-data-chen/turborepo-starter-kit)
 
 - 🌱 I'm currently learning **Storybook and Turborepo**
 
 - 💬 Ask me about **Ask me about AI tools and Prompt Engineering to increase quility and development efficiency in Frontend**
-
-- 📫 How to reach me **LinkedIn**
 
 - 🥊 Fun fact **I get up at five in the morning to train boxing and play the theme of Rocky**
 
