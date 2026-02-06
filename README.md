@@ -2,9 +2,7 @@
 
 ### Senior Staff Frontend Engineer | AI-Driven Engineering Velocity | Monorepo Architect
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/john-data-chen" alt="https://github.com/john-data-chen" /></a> </p>
-
-- 🔭 I'm currently working on ** [turborepo-starter-kit](https://github.com/john-data-chen/turborepo-starter-kit)**
+- 🔭 I'm currently working on **[turborepo-starter-kit](https://github.com/john-data-chen/turborepo-starter-kit)**
 
 - 🌱 I'm currently learning **React Native and Turborepo**
 
