@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I am JianAn Chen</h1>
+<h1 align="left">Hey 👋 I am JianAn Chen</h1>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/johndatachen/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -55,13 +55,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=john-data-chen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/john-data-chen/john-data-chen/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/john-data-chen/john-data-chen/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/john-data-chen/john-data-chen/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
