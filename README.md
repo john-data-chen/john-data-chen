@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **AI-assisted development and Agentic Engineering**
 
-- 📫 How to reach me **my LinkedIn**
+- 📫 How to reach me **LinkedIn**
 
 - 📄 Know about my experiences [https://rxresu.me/johnchen0501/jian-an-chen](https://rxresu.me/johnchen0501/jian-an-chen)
 
