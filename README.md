@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm JianAn Chen</h1>
 <h3 align="center">An Agentic full-stack developer from Taiwan</h3>
 
-- 🔭 I’m currently working on [turborepo-starter-kit](https://github.com/john-data-chen/turborepo-starter-kit) and [sveltekit-starter-kit](https://github.com/john-data-chen/svelitkit-starter-kit)
+- 🔭 I’m currently working on [turborepo-starter-kit](https://github.com/john-data-chen/turborepo-starter-kit) and [sveltekit-starter-kit](https://github.com/john-data-chen/sveltekit-starter-kit)
 
 - 🌱 I’m currently learning **Agentic and Harness Engineering**
 
